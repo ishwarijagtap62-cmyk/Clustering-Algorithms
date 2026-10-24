@@ -1,0 +1,4 @@
+Algorithm,Parameters,Clusters,Noise points,Silhouette,Davies-Bouldin,ARI (reference)
+K-Means,k=3,3,0,0.2849,1.3892,0.8975
+Hierarchical (Ward),k=3,3,0,0.2774,1.4186,0.7899
+DBSCAN,"eps=2.3, min_samples=8",2,52,0.3422,1.1261,0.5047
